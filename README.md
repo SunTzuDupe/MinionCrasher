@@ -19,4 +19,4 @@ Instructions:
 
 9: Relog on skyblock and enjoy your duped item
 
-P.S. Don't dupe more than 500M everyday, you may get banned if you did. As long as you don't, you are safe (turn off skyblock API if you don't want to be reported by other players)
+P.S. Don't dupe more than 500M everyday, you may get banned if you did. As long as you don't, you will not be suspicioned by watchdogs (turn off skyblock API if you don't want to be reported by other players)
